@@ -1,1 +1,14 @@
+Final Project for my Advanced GIS Applications class.
 
+I analyzed all Divvy bike stations in the city of chicago to understand:
+- What is the distribution of Divvy bike stations across the city?
+- How do demographic factors influence Divvy station locations?
+- Where the city can use more Divvy stations?
+- How accessible are Divvy bike stations in different parts of the city?
+
+To answer these questions, I ran these models:
+- Optimized hot spot analysis
+- Optimized outlier analysis
+- Geographically weighted regression
+- Buffer analysis
+- Network analysis
