@@ -1,2 +1,2 @@
 # ENVS-481
-Maps &amp; Final Project for Advanced GIS Applications
+This repository contains all work for the class ENVS 481 (Advanced GIS Applications).
